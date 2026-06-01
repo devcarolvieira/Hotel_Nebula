@@ -1,9 +1,9 @@
-// Consulta de quartos com vista para o jardim:
+// Quartos com vista para o jardim:
 
 db.Quartos.find({
   "caracteristicas.vista": "jardim"})
 
-// Consulta de quais hóspedes reservaram mais de uma vez?
+// Quais hóspedes reservaram mais de uma vez:
 
 db.Reservas.aggregate([
   {
