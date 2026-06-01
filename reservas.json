@@ -1,0 +1,26 @@
+{
+  "_id": "ObjectId('rsv2024001')",
+  "hospede_id": "ObjectId('hsp001')",
+  "hospede_snapshot": {
+    "nome": "Geraldo Rosa Silva",
+    "email": "geraldorosa@hotmail.com",
+    "telefone": "+55 11 94152-8874"
+  },
+  "quarto_id": "ObjectId('qrt101')",
+  "quarto_snapshot": {
+    "numero": "101",
+    "tipo": "standard",
+    "preco_diaria": 250
+  },
+  "data_checkin": "2026-09-12",
+  "data_checkout": "2026-09-15",
+  "num_noites": 4,
+  "num_hospedes": 2,
+  "valor_total": 1000,
+  "status": "confirmada",
+  "canal": "site_proprio",
+  "codigo_reserva": "HN-2025-00142",
+  "observacoes": "Solicita berço para bebê.",
+  "data_criacao": "2025-03-28T14:22:00Z",
+  "data_atualizacao": "2025-03-28T14:22:00Z"
+}
